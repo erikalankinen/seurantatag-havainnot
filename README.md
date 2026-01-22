@@ -1,5 +1,7 @@
 # Seurantatagien havainnointiohjelmat
-Tämä repository sisältää kaksi Python-ohjelmaa seurantatagien havainnointiin:
+Tämä projekti on osa kandidaatin tutkielmaa, jossa käsitellään seurantatageista kerättyä havaintodataa. Sovellus lukee, käsittelee ja analysoi havaintoja tutkimuskäyttöön.
+
+Repository sisältää kaksi Python-ohjelmaa seurantatagien havainnointiin:
 - `tile.py` seuraa Tile-laitetta (pytile-kirjastolla)
 - `samsung.py` seuraa Galaxy Tag 2 -laitetta (SmartThings API)
 
